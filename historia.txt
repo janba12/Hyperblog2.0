@@ -4,3 +4,5 @@ primer archivo
 haciendo un commit
 
 En fotos parece mas alto, pero realmente no lo es
+
+hoy estoy aprendiendo a usar git y github
