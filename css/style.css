@@ -6,9 +6,19 @@ body{
     margin: 0;
     padding: 0;
 }
+#title_principal{
+    padding: 0;
+    margin: 0;
+    color: #fffefe;
+    background-color: rgb(102, 21, 179);
+    text-align: center;
+    border: 1px solid black;
+}
+div p{
+    margin: 1em;
+}
 #container{
     width: 70%;
-    padding: 1em;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
